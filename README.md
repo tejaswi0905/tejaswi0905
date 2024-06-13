@@ -3,10 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://png.pngtree.com/background/20230525/original/pngtree-hacking-child-computer-screen-picture-image_2735813.jpg">
 
 
-- 🔭 I’m currently working on [Backend of an E-commerce website with Microservices](https://github.com/tejaswi0905/E-commerce)
-
-- 👯 I’m currently working on [Frontend of Fast-React-Pizza, with ReactTs, Recoil, TailwindCss.](https://github.com/tejaswi0905/fast-react-pizza)
-
 - 👨‍💻 All of my projects are available at [https://github.com/tejaswi0905](https://github.com/tejaswi0905)
 
 - 💬 Ask me about **Javascript, Typescript, React, NodeJs, Express, MongoDB, MongooseORM, PrismaORM, PostgreSQL, DSA, Python.**
