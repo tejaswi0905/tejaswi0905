@@ -12,9 +12,11 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 -Javascript/Typescript
+
 -React-Next/Next-Auth (I know React is a framework, but I think at this point we can consider it as a language itself.)
+
 -Python
 
 
